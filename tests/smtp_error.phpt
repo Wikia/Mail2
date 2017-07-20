@@ -2,7 +2,7 @@
 Mail2: SMTP Error Reporting
 --FILE--
 <?php
-require_once 'Mail2.php';
+require_once __DIR__ . '/../vendor/autoload.php';
 
 /* Reference a bogus SMTP server address to guarantee a connection failure. */
 $params = array('host' => 'bogus.host.tld');
