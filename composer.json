@@ -29,7 +29,7 @@
         "./"
     ],
     "license": "BSD-2-Clause",
-    "name": "pear/mail2",
+    "name": "Wikia/mail2",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Mail2",
         "source": "https://github.com/pear/Mail2"
